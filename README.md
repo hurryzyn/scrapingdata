@@ -1,1 +1,1 @@
-<h1>Sederhana scraping wikipedia table </h1>
+<h1><span style="text-color : blue;"> <i> Sederhana</span> scraping table </h1>
